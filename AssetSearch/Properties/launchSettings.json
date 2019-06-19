@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AssetSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "-i F:\\Users\\Silver\\Documents\\GitHub\\Starbound-AssetSearch\\AssetSearch\\bin\\Debug\\netcoreapp2.1 -o F:\\Users\\Silver\\Documents\\GitHub\\Starbound-AssetSearch\\AssetSearch\\bin\\Debug\\netcoreapp2.1\\out -p *.json -k"
+    }
+  }
+}
